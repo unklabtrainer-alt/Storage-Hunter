@@ -5,7 +5,7 @@
 -- SET THIS: replace YOUR_USER/YOUR_REPO with your GitHub username and repo
 -- name (branch "main"). Example: "https://raw.githubusercontent.com/ben123/my-hub/main/"
 
-local BASE = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/"
+local BASE = "https://raw.githubusercontent.com/unklabtrainer-alt/Storage-Hunter/main/"
 
 local GAMES = {
 	{
